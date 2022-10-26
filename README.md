@@ -1,4 +1,4 @@
-# bankist
+# Bankist
 
 **Demo banking app - sort transactions, transfer money and more.**
 
